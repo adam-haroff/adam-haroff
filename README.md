@@ -1,6 +1,6 @@
 ### Hi there 👋
-🌱 I’m currently learning AI tools and game development
-🔭 I enjoy playing bass guitar and board games.
+- 🌱 I’m currently learning AI tools and game development
+- 🔭 I enjoy playing bass guitar and board games.
 <!--
 **adam-haroff/adam-haroff** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
